@@ -25,6 +25,8 @@ this provides and intresting way of seeing how these functions behave by looking
 # intresting examples
 
 
-| Rotation $f(z) = z\frac{1 + i}{\sqrt{2}}$ | Singularity $f(z) = \frac{1}{10z}$ | 
-| ------------- | ----------- |
-| ![](images/rotate.png) | ![](images/singularity.png) |
+### Rotation $f(z) = z\frac{1 + i}{\sqrt{2}}$ 
+![](images/rotate.png) 
+
+### Singularity $f(z) = \frac{1}{10z}$
+![](images/singularity.png)
