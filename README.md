@@ -10,7 +10,7 @@ pip install PySimpleGUI
 
 Then run map.py
 ```
-pip install PySimpleGUI
+python3 map.py
 ```
 
 
